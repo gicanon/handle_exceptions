@@ -4,7 +4,7 @@ Python program to handle exceptions with the method try...except
 
 ## Description
 
-This Python program is used to demonstrate how to hanlde exceptions. 
+This Python program is used to demonstrate how to hanlde exceptions.
 
 Python exercise:
 
