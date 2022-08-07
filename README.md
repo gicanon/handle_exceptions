@@ -10,21 +10,21 @@ Python exercise:
 
 Incorporate the following code into a Python program to handle exceptions.
 
-try:
-   \# do something
+try:                    <br>
+   \# do something      <br>
    pass
 
-except ValueError:
-   \# handle ValueError exception
+except ValueError:                  <br>
+   \# handle ValueError exception   <br>
    pass
 
-except (TypeError, ZeroDivisionError):
-   \# handle multiple exceptions
-   \# TypeError and ZeroDivisionError
+except (TypeError, ZeroDivisionError): <br>
+   \# handle multiple exceptions       <br>
+   \# TypeError and ZeroDivisionError  <br>
    pass
 
-except:
-   \# handle all other exceptions
+except:                                <br>
+   \# handle all other exceptions      <br>
    pass
    
 ## Getting Started
